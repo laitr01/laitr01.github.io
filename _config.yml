@@ -7,13 +7,13 @@ title: Lai Van Trach
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: laitr01
 language: en
-timezone: ''
+timezone: 'Asia/Ho_Chi_Minh'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://laitrach.com
+url: https://laitr01.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
